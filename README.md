@@ -1,5 +1,5 @@
-# Mockit
-Mockit is a HTTP Mock Management tool
+# mockman
+mockman is a HTTP Mock Management tool
 
 # setup
 ```
